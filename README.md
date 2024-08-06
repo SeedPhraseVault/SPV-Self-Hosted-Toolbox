@@ -1,6 +1,6 @@
 # SPV Self-Hosted Toolbox
 
-This set of HTML files allow fully independence access to all 2048 Seed Phrase Vaults. One step closer to decentralised, self-custody and security.
+This set of HTML files allow fully independence access to all 2048 Seed Phrase Vaults. One step closer to decentralised self-custody and security.
 
 Find out more about our project here - https://www.seedphrasevault.xyz
 
